@@ -1,29 +1,29 @@
 ,Description,Budget Estimates 2025-26,Actuals up to Feb 2026,Percentage: Current 2025-26,Percentage: Corresponding 2024-25,State,month,cat2,cat1
-0,i)Goods and Service Tax,59704.59,43673.66,73.15,72.80,Telangana, January 2026,Tax Revenue,REVENUE RECEIPTS
-1,ii)Stamps and Regstration,19087.26,12345.81,64.68,31.94,Telangana, January 2026,Tax Revenue,REVENUE RECEIPTS
-2,iii)Land Revenue,11.2,0.51,4.58,6.98,Telangana, January 2026,Tax Revenue,REVENUE RECEIPTS
-3,iv)Sales Tax,37463.9,27911.75,74.50,79.90,Telangana, January 2026,Tax Revenue,REVENUE RECEIPTS
-4,v)State Excise Duties,27623.36,19083.91,69.09,60.84,Telangana, January 2026,Tax Revenue,REVENUE RECEIPTS
-5,vi)States Share of Union Taxes (*),21195.18,16496.76,77.83,83.42,Telangana, January 2026,Tax Revenue,REVENUE RECEIPTS
-6,vii)Other Taxes and duties,10233.87,6781.24,66.26,65.71,Telangana, January 2026,Tax Revenue,REVENUE RECEIPTS
-7,b)Non-Tax Revenue,331618.77,77864.18,224.87,116.66,Telangana, January 2026,Non-Tax Revenue,REVENUE RECEIPTS
-8,c)Grant in aid and Contributions,222782.5,44213.29,118.49,223.93,Telangana, January 2026,Grant in aid and Contributions,REVENUE RECEIPTS
-9,a)Recovery of Loans and Advances,1106.93,38.79,3.50,1.00,Telangana, January 2026,Recovery of Loans and Advances,Capital Receipts
-10,b)Other Receipts,0.0,0.0,0.00,0.00,Telangana, January 2026,Other Receipts,Capital Receipts
-11,c)Borrowings & Other Liabilities (Net ) (**) (***),54009.74,69148.28,128.03,118.94,Telangana, January 2026,Borrowings & Other Liabilities (Net ) (**) (***),Capital Receipts
-12,"(a)Expenditure on Revenue Account (excluding b,c,d,e)",133440.77,57796.02,43.31,51.08,Telangana, January 2026,"Expenditure on Revenue Account (excluding b,c,d,e)",Revenue Expenditure
-13,(b)Expenditure in Interest Payments,19369.02,24085.22,124.35,124.40,Telangana, January 2026,Expenditure in Interest Payments,Revenue Expenditure
-14,(c)Expenditure on Salaries/Wages,44478.87,39858.28,89.61,88.80,Telangana, January 2026,Expenditure on Salaries/Wages,Revenue Expenditure
-15,(d)Expenditure on Pension,13109.67,15717.1,119.89,121.58,Telangana, January 2026,Expenditure on Pension,Revenue Expenditure
-16,(e)Expenditure on Subsidy,16583.95,11480.83,69.23,54.45,Telangana, January 2026,Expenditure on Subsidy,Revenue Expenditure
-17,(a)Expenditute on Capital Account (excluding b),35700.28,43576.88,122.06,86.46,Telangana, January 2026,Expenditute on Capital Account (excluding b),Capital Expenditure
-18,(b)Expenditure on Salaries/Wages,804.17,799.46,99.41,90.34,Telangana, January 2026,Expenditure on Salaries/Wages,Capital Expenditure
-19,(c)Inter State Settlement (Net),0.0,0.0,0.00,0.00,Telangana, January 2026,Inter State Settlement (Net),Capital Expenditure
-20,(i)General Sector,550173.21,553000.81,1105.64,1106.89,Telangana, January 2026,General Sector,Sector wise Expediture
-21,(ii)Social Sector,1121469.97,667980.93,555.97,554.41,Telangana, January 2026,Social Sector,Sector wise Expediture
-22,(iii)Economic Sector,991833.46,772332.04,778.76,669.57,Telangana, January 2026,Economic Sector,Sector wise Expediture
-23,(iv)Grant in aid and Contributions,110.1,0.0,00.00,00.00,Telangana, January 2026,Grant in aid and Contributions,Sector wise Expediture
-24,8 LOANS AND ADVANCES DISBURSED,221350.55,114244.4,666.72,117.78,Telangana, January 2026,LOANS AND ADVANCES DISBURSED,LOANS AND ADVANCES DISBURSED
-25,9 Revenue Surplus/Deficit [1-4],22738.35,-10566.34,--385.87,--8758.95,Telangana, January 2026,Revenue Surplus/Deficit [1-4],Revenue Surplus/Deficit(Rec-Exp)
-26,10 Fiscal Deficit [1+2(a)+(b)] -(7+8)(***),-54009.72,-69148.29,1128.03,1118.74,Telangana, January 2026, Fiscal Deficit [1+2(a)+(b)] -(7+8)(***),Fiscal Deficit
-27,11 Primary Surplus/Deficit [1+2(a)+2(b)]-[4(a+c+d+e)+5+8],-34640.7,-45063.07,1130.09,1115.88,Telangana, January 2026, Primary Surplus/Deficit [1+2(a)+2(b)]-[4(a+c+d+e)+5+8],Primary Surplus/Deficit
+0,i)Goods and Service Tax,59704.59,48036.72,80.46,79.26,Telangana, February 2026,Tax Revenue,REVENUE RECEIPTS
+1,ii)Stamps and Regstration,19087.26,13775.51,72.17,38.58,Telangana, February 2026,Tax Revenue,REVENUE RECEIPTS
+2,iii)Land Revenue,11.2,0.54,4.84,7.39,Telangana, February 2026,Tax Revenue,REVENUE RECEIPTS
+3,iv)Sales Tax,37463.9,30628.68,81.76,87.41,Telangana, February 2026,Tax Revenue,REVENUE RECEIPTS
+4,v)State Excise Duties,27623.36,20454.14,74.05,65.61,Telangana, February 2026,Tax Revenue,REVENUE RECEIPTS
+5,vi)States Share of Union Taxes (*),21195.18,18788.79,88.65,93.79,Telangana, February 2026,Tax Revenue,REVENUE RECEIPTS
+6,vii)Other Taxes and duties ($),10233.87,7416.43,72.47,72.10,Telangana, February 2026,Tax Revenue,REVENUE RECEIPTS
+7,b)Non-Tax Revenue,31618.77,9105.39,28.80,17.25,Telangana, February 2026,Non-Tax Revenue,REVENUE RECEIPTS
+8,c)Grant in aid and Contributions,22782.5,6140.65,26.95,27.78,Telangana, February 2026,Grant in aid and Contributions,REVENUE RECEIPTS
+9,a)Recovery of Loans and Advances,1106.93,42.53,3.84,1.11,Telangana, February 2026,Recovery of Loans and Advances,Capital Receipts
+10,b)Other Receipts,0.0,0.0,0.00,0.00,Telangana, February 2026,Other Receipts,Capital Receipts
+11,c)Borrowings & Other Liabilities (Net ) (**),54009.74,77111.1,142.77,130.86,Telangana, February 2026,Borrowings & Other Liabilities (Net ) (**),Capital Receipts
+12,"(a)Expenditure on Revenue Account (excluding b,c,d,e)",133440.77,67745.29,50.77,56.17,Telangana, February 2026,"Expenditure on Revenue Account (excluding b,c,d,e)",Revenue Expenditure
+13,(b)Expenditure in Interest Payments,19369.02,26218.45,135.36,135.81,Telangana, February 2026,Expenditure in Interest Payments,Revenue Expenditure
+14,(c)Expenditure on Salaries/Wages,44478.87,43457.52,97.70,97.30,Telangana, February 2026,Expenditure on Salaries/Wages,Revenue Expenditure
+15,(d)Expenditure on Pension,13109.67,17568.65,134.01,132.98,Telangana, February 2026,Expenditure on Pension,Revenue Expenditure
+16,(e)Expenditure on Subsidy,16583.95,13721.55,82.74,59.21,Telangana, February 2026,Expenditure on Subsidy,Revenue Expenditure
+17,(a)Expenditute on Capital Account (excluding b),35700.28,47556.98,133.21,97.58,Telangana, February 2026,Expenditute on Capital Account (excluding b),Capital Expenditure
+18,(b)Expenditure on Salaries/Wages,804.17,875.12,108.82,100.26,Telangana, February 2026,Expenditure on Salaries/Wages,Capital Expenditure
+19,(c)Inter State Settlement (Net),0.0,0.0,0.00,0.00,Telangana, February 2026,Inter State Settlement (Net),Capital Expenditure
+20,(i)General Sector,50173.21,63047.16,125.66,117.33,Telangana, February 2026,General Sector,Sector wise Expediture
+21,(ii)Social Sector,121469.97,75005.88,61.75,60.48,Telangana, February 2026,Social Sector,Sector wise Expediture
+22,(iii)Economic Sector,91833.46,79090.51,86.12,76.25,Telangana, February 2026,Economic Sector,Sector wise Expediture
+23,(iv)Grant in aid and Contributions,10.1,0.0,0.00,0.00,Telangana, February 2026,Grant in aid and Contributions,Sector wise Expediture
+24,8 LOANS AND ADVANCES DISBURSED,21350.55,14356.92,67.24,18.17,Telangana, February 2026,LOANS AND ADVANCES DISBURSED,LOANS AND ADVANCES DISBURSED
+25,9 Revenue Surplus/Deficit [1-4],2738.35,-14364.61,-524.57,-9459.10,Telangana, February 2026,Revenue Surplus/Deficit [1-4],Revenue Surplus/Deficit(Rec-Exp)
+26,10 Fiscal Deficit [1+2(a)+(b)] -(7+8),-54009.72,-77111.1,142.77,130.66,Telangana, February 2026, Fiscal Deficit [1+2(a)+(b)] -(7+8),Fiscal Deficit
+27,11 Primary Surplus/Deficit [1+2(a)+2(b)]-[4(a+c+d+e)+5+8],-34640.7,-50892.65,146.92,128.08,Telangana, February 2026, Primary Surplus/Deficit [1+2(a)+2(b)]-[4(a+c+d+e)+5+8],Primary Surplus/Deficit
